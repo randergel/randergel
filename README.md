@@ -1,4 +1,4 @@
-## Olá! Eu sou o randergel, desenvolvedor especializado em design de temas, watch faces e apps na Google, Samsung e Amazon.
+## Olá! Eu sou o randergel, desenvolvedor especializado em design de temas, watch faces e apps na Google, Microsoft e Amazon.
 <div align="center">
   <a href="https://github.com/randergel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randergel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
