@@ -1,4 +1,4 @@
-## Olá! Eu sou o randergel, desenvolvedor especializado em design de temas, watch faces e apps na Google, Microsoft e Amazon.
+## Olá! Eu sou o randergel, desenvolvedor especializado em design de temas, watch faces e apps na Google, Microsoft e Amazon. Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software.
 <div align="center">
   <a href="https://github.com/randergel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randergel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,7 +21,5 @@
  
 <div>
   <a href="https://twitter.com/randergel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://facebook.com/randergel" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/randergel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/randergel" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
