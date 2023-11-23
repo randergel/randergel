@@ -1,4 +1,4 @@
-## Olá! Eu sou o randergel, desenvolvedor especializado em design de temas, watch faces e apps na Google, Microsoft e Amazon. Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software.
+## Olá! Eu sou o randergel, graduado em Análise de Sistemas e pós-graduado em Engenharia de Software.
 <div align="center">
   <a href="https://github.com/randergel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randergel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
