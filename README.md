@@ -1,4 +1,4 @@
-## Olá! Eu sou o randergel, graduado em Análise de Sistemas e pós-graduado em Engenharia de Software.
+## Olá! Eu sou o randergel, graduado em Análise de Sistemas e pós-graduado em Engenharia de Software, Engenharia da Computação e Docência Ensino Superior.
 <div align="center">
   <a href="https://github.com/randergel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randergel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
